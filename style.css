@@ -25,6 +25,7 @@ body {
     border: 1px solid black;
     text-align: left;
     border-radius: 25px;
+    gap: 20px;
     background-color: rgb(255, 255, 255);
 }
 
